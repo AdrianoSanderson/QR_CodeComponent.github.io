@@ -1,6 +1,8 @@
 body{
     background-color: hsl(212, 45%, 89%);
     padding: 10% 35%;
+    display: flex;
+    justify-content: center;
 }
 section{
     width: 350px;
